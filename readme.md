@@ -1,21 +1,27 @@
-## Lumen PHP Framework
+# [Get Started With Lumen][published url]
+## Instructor: [Simon Bacquie][instructor url]
 
-[![Build Status](https://travis-ci.org/laravel/lumen-framework.svg)](https://travis-ci.org/laravel/lumen-framework)
-[![Total Downloads](https://poser.pugx.org/laravel/lumen-framework/d/total.svg)](https://packagist.org/packages/laravel/lumen-framework)
-[![Latest Stable Version](https://poser.pugx.org/laravel/lumen-framework/v/stable.svg)](https://packagist.org/packages/laravel/lumen-framework)
-[![Latest Unstable Version](https://poser.pugx.org/laravel/lumen-framework/v/unstable.svg)](https://packagist.org/packages/laravel/lumen-framework)
-[![License](https://poser.pugx.org/laravel/lumen-framework/license.svg)](https://packagist.org/packages/laravel/lumen-framework)
+Lumen is the fast new PHP micro-framework from the Laravel project. It allows you to use the power of Laravel, including the Eloquent ORM and features such as routing, middleware and validation, with the flexibility and low overhead of a micro-framework. If you like Laravel, or just want to use a cutting-edge server-side platform for writing microservices and REST APIs, Lumen is a great choice.
 
-Laravel Lumen is a stunningly fast PHP micro-framework for building web applications with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Lumen attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as routing, database abstraction, queueing, and caching.
+In this course, Envato Tuts+ instructor Simon Bacquie will help you get started coding with Lumen. You'll start with a blank, boilerplate Lumen app, and build it out into a full web app that manages books and authors. Along the way you'll learn about some of the key Lumen features, such as Eloquent, routing, controllers and more!
 
-## Official Documentation
 
-Documentation for the framework can be found on the [Lumen website](http://lumen.laravel.com/docs).
 
-## Security Vulnerabilities
+## Source Files Description
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell at taylor@laravel.com. All security vulnerabilities will be promptly addressed.
 
-### License
+This repository contains the source code for the completed course project.
 
-The Lumen framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
+
+## 3rd-Party Content
+
+The [Adminer](https://www.adminer.org/) database management package is licensed under the [Apache License Version 2.0](https://www.apache.org/licenses/LICENSE-2.0.html).
+
+------
+
+These are source files for the Tuts+ course: [Get Started With Lumen][published url]
+
+Available on [Tuts+](https://tutsplus.com). Teaching skills to millions worldwide.
+
+[published url]: https://code.tutsplus.com/courses/get-started-with-lumen
+[instructor url]: https://tutsplus.com/authors/simon-bacquie
